@@ -1,5 +1,10 @@
 # 🚀 Monitoring Kubernetes with Prometheus and Grafana on Minikube
 
+<p align="center">
+  <img width="840" alt="Image" src="https://github.com/user-attachments/assets/c69c39f2-8e68-4790-bd13-b6e5382c2f99" />
+</p>
+
+
 ## 🔥 Introduction
 
 Kubernetes is a powerful orchestration tool, but monitoring its performance is crucial for ensuring smooth operations. This is where **Prometheus** and **Grafana** come into play. Prometheus is a leading open-source monitoring solution, while Grafana is a visualization tool that helps make sense of the collected data.
